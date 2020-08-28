@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(Do.jpg) bottom center;
   background-size: cover;
 }
 
@@ -33,9 +33,9 @@ body,html {
 }
 
 .playing {
-  transform: scale(1.1);
+  transform: scale(2);
   border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  box-shadow: 0 0 10px #ffc600;
 }
 
 kbd {
